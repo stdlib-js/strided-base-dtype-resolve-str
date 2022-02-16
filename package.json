@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-base-dtype-resolve-str",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Return the data type string associated with a supported strided array data type value.",
   "license": "Apache-2.0",
   "author": {
